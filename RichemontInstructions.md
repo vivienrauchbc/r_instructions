@@ -35,7 +35,7 @@
     ```sh
     python basler_grab_png.py --ring-light-port=COM7 --verbose
     ```
-(available in the program’s README file)
+- the above code is available in the program’s README file
 
-- if the COM7 doesn’t work, open up the Device Manager from the Start menu and search for Ports (COM & LPT) and you can access the port information
-- the captured images will be saved in the project's sidebar imgtest folder
+- if the COM7 doesn’t work, open up the **Device Manager** from the **Start menu** and search for **Ports (COM & LPT)** and you can access the port information
+- the captured images will be saved in the project's sidebar **imgtest** folder
