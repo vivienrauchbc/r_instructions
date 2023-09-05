@@ -18,7 +18,7 @@
 
     ![main](screenshots/main_run.png)
 
-- then you can adjust the focus to your need:
+- then you can adjust the focus to your need
 
 - use the indicated keymap to navigate the calibration panel
 
