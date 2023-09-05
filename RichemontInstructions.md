@@ -37,5 +37,5 @@
     ```
 - the above code is available in the program’s README file
 
-- if the COM7 doesn’t work, open up the **Device Manager** from the **Start menu** and search for **Ports (COM & LPT)** and you can access the port information
+- if the **COM7** doesn’t work, open up the **Device Manager** from the **Start menu** and search for **Ports (COM & LPT)** and you can access the port information
 - the captured images will be saved in the project's sidebar **imgtest** folder
